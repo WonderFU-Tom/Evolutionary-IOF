@@ -6,10 +6,10 @@ This project is licensed under the terms of the MIT license.
 
 ![image](https://github.com/WonderFU-Tom/Evolutionary-IOF/blob/main/Original.gif)
 
-## Visualization the effect after applying the singular value dropout in BiSON annealing scheme
+## Visualization of the singular value dropout's effect
 
 ![image](https://github.com/WonderFU-Tom/Evolutionary-IOF/blob/main/SD.gif)
 
-## Visualization the effect after applying the bifurcation control in BiSON annealing scheme
+## Visualization of the bifurcation control's effect
 
 ![image](https://github.com/WonderFU-Tom/Evolutionary-IOF/blob/main/BC.gif)
