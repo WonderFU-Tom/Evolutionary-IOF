@@ -1,0 +1,23 @@
+[INFO  21:19:16] Start Ising Optimization with parametrization:
+{
+    "BC": true,
+    "Greedy": true,
+    "SD": true,
+    "alpha": 0.838,
+    "batch_size": 64,
+    "beta": 0.0385,
+    "dynamics": {
+        "alpha": 1,
+        "beta": 1,
+        "delta": 0.5,
+        "k": 0.1
+    },
+    "energy": "Hamiltonian",
+    "epochs": 10,
+    "evo_steps": 500,
+    "graph": "G1",
+    "log_dir": "",
+    "mu": 200,
+    "seed": 2025
+}
+[INFO  21:19:19] epoch: 9 	 Discovered Lowest Hamiltonian: -4072.0000 	 Best Cut: 11624.0000 	 Optimization Time: 2954.4225 ms
