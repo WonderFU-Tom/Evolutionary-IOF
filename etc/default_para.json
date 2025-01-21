@@ -1,0 +1,19 @@
+{
+    "batch_size": 64,
+    "graph": "G1",
+    "alpha": 0.838,
+    "beta": 0.0385,
+    "mu": 200,
+    "dynamics": {
+        "alpha": 1,
+        "beta": 1,
+        "k": 0.1,
+        "delta": 0.5
+    },
+    "epochs": 10,
+    "evo_steps": 500,
+    "SD": true,
+    "BC": true,
+    "Greedy": true,
+    "seed": 2025
+}
