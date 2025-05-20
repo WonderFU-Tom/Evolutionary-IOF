@@ -21,6 +21,6 @@ If you use this code or find it helpful for your research, please cite:
 
 > W. Fu, A. Trivedi, G. Chen, Y. Gao, D. Srinivasan, and A. Danner,  
 > "*An Evolutionary Ising Optimization Framework for Unconstrained Binary Quadratic Programming,*"  
-> *IEEE Transactions on Evolutionary Computation*, early access, 2025.  
-> DOI: [add DOI here when available]
+> *IEEE Transactions on Evolutionary Computation*, 2025.  
+> DOI: 10.1109/TEVC.2025.3566963
 
