@@ -1,7 +1,11 @@
 # Evolutionary IOF
+This repository contains an Evolutionary Ising Optimization Framework (IOF) based on a physics-inspired Ising algorithm combined with a hybrid annealing scheme.
 
-An Evolutionary Ising Optimization Framework (IOF) based on a physics-inspired Ising system and a hybrid annealing scheme.  
-This project is licensed under the terms of the MIT license. Please run `IOF_run.py` to simulate the Ising-spin swarm evolution on G-set graphs, square lattices, Möbius-ladder lattices, triangular lattices, and cubic lattices. The ground states (best-known solutions) for all problems have been recorded for comparison.
+To run simulations of Ising-spin swarm evolution, please execute IOF_run.py. The framework supports a variety of benchmark problems, including G-set graphs, square lattices, Möbius ladder lattices, triangular lattices, and cubic lattices.
+
+For all problem instances, the corresponding ground states (best-known solutions) are provided for performance comparison.
+
+This project is licensed under the terms of the MIT License.
 
 ## Visualization of the evolution of an Ising spin swarm
 
